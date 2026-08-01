@@ -67,8 +67,7 @@ Discussion/Limitations).
 ## Repository structure
 
 ```
-cwgan_gp_eeg_pipeline.py   # full pipeline: data loading -> GAN training ->
-                            #   classical ML + DL benchmarking -> evaluation
+cwgan_gp_eeg_pipeline.py   # full pipeline: data loading -> GAN training -> classical ML + DL benchmarking -> evaluation
 requirements.txt
 README.md
 ```
